@@ -1,4 +1,4 @@
-## Answer 3:
+// Answer 3:
 
 CREATE TABLE Product_Category (
     id INT PRIMARY KEY,
